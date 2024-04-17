@@ -35,9 +35,10 @@ I chose R because I found a website that offered free courses teaching R and its
 ## Answer the following questions (and provide a corresponding screen showing output answering them):
 
 - **What company (oem) has the highest average weight of the phone body?**
-
+![Question 1](https://github.com/Eddguy/Cubas_AlternativeLanguageProject/blob/main/images/Q1.png)
 - **Was there any phones that were announced in one year and released in another? What are they? Give me the oem and models.**
-
+![Question 2](https://github.com/Eddguy/Cubas_AlternativeLanguageProject/blob/main/images/Q2.png)
 - **How many phones have only one feature sensor?**
-
+![Question 3](https://github.com/Eddguy/Cubas_AlternativeLanguageProject/blob/main/images/Q3.png)
 - **What year had the most phones launched in any year later than 1999?**
+- ![Question 4](https://github.com/Eddguy/Cubas_AlternativeLanguageProject/blob/main/images/Q4.png)
